@@ -38,6 +38,7 @@
             "@type": "Recipe",
             "name": "${this.recipe.receptnaam}",
             "author": "${this.recipe.bron}",
+            "url": "${this.recipe['bron URL']}",
             "image": [
             ],
             "recipeCategory": "${this.recipe['soort gerecht']}",

@@ -1,5 +1,5 @@
 <template>
-	$END$
+  <div>test page</div>
 </template>
 
 <script>

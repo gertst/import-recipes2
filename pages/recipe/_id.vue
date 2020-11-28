@@ -23,13 +23,13 @@
         return recipesJson.recipes.find(r => r.receptnaam === this.$route.params.id);
       },
       totalTime() {
-        return (this.recipe['voorbereidingstijd (minuten)'] || 0) + (this.recipe['bereidingstijd (minuten)'] || 0)
+        return (parseInt(this.recipe['voorbereidingstijd (minuten)'] )|| 0) + (parseInt(this.recipe['bereidingstijd (minuten)'])|| 0)
       },
       ingredientsArray() {
-        return this.recipe['ingrediënten'].split("<br/>")
+        return this.recipe['ingrediënten'].split("<br/>").map(i => '"' + i + '"');
       },
       instructionsArray() {
-        return this.recipe['bereidingswijze'].split("<br/>")
+        return this.recipe['bereidingswijze'].split("<br/>").map(i => '"' + i + '"');
       },
       ldJson() {
         return `
@@ -47,10 +47,10 @@
             "prepTime": "PT${this.recipe['voorbereidingstijd (minuten)'] || 0}M",
             "cookTime": "PT${this.recipe['bereidingstijd (minuten)'] || 0}M",
             "totalTime": "PT${this.totalTime}M",
-            "recipeYield": "${this.recipe["aantal personen"]} personen",
+            "recipeYield": "${this.recipe["aantal personen"] ? this.recipe["aantal personen"] + ' personen' : ''}",
 
-            "recipeIngredient": ${this.ingredientsArray},
-            "recipeInstructions": ${this.instructionsArray}
+            "recipeIngredient": [${this.ingredientsArray}],
+            "recipeInstructions": [${this.instructionsArray}]
           }
         `
       }

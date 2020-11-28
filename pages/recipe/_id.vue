@@ -2,7 +2,7 @@
   <div class="m-4">
     Recept:
     <h2 class="text-xl">{{recipe.receptnaam}}</h2>
-
+    <p>v2</p>
     <script v-html="ldJson" type="application/ld+json"></script>
 
   </div>

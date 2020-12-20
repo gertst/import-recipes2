@@ -6,7 +6,7 @@
         import-recipes
       </h1>
 
-      <ol>
+      <ol class="list-decimal">
         <li v-for="(recipe, index) in recipes" :key="index">
           <a :href="'recipe/' + recipe.receptnaam" class="underline">{{recipe.receptnaam}}</a>
         </li>

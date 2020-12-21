@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Slaatje warme geitenkaasjes met honing", {data:[{}],fetch:[],mutations:void 0});

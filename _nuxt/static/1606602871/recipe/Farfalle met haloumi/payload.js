@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Farfalle met haloumi", {data:[{}],fetch:[],mutations:void 0});

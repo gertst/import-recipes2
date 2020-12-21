@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Pasta met rode biet, geitenkaas en rucola", {data:[{}],fetch:[],mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Stoofpotje van snijbonen, kikkererwten en abrikozen", {data:[{}],fetch:[],mutations:void 0});

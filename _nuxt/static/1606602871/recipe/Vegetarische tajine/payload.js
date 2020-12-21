@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Vegetarische tajine", {data:[{}],fetch:[],mutations:void 0});

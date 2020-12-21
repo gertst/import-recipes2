@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Eenvoudige wok met spitskool", {data:[{}],fetch:[],mutations:void 0});

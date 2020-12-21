@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Prei met gnocchi", {data:[{}],fetch:[],mutations:void 0});

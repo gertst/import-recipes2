@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Lasagne met snijbiet en aubergine", {data:[{}],fetch:[],mutations:void 0});

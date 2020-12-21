@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Pittige pasta arrabiata", {data:[{}],fetch:[],mutations:void 0});

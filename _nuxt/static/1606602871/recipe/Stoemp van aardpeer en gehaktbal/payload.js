@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Stoemp van aardpeer en gehaktbal", {data:[{}],fetch:[],mutations:void 0});

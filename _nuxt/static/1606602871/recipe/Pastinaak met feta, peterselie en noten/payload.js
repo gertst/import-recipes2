@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Pastinaak met feta, peterselie en noten", {data:[{}],fetch:[],mutations:void 0});

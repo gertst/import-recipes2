@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Omelet met spinazie, champignons en kikkererwten", {data:[{}],fetch:[],mutations:void 0});

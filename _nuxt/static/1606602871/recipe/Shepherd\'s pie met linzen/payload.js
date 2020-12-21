@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Shepherd\'s pie met linzen", {data:[{}],fetch:[],mutations:void 0});

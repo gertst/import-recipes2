@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Maaltijdsalade met postelein, spek en kaas", {data:[{}],fetch:[],mutations:void 0});

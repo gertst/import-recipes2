@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Vegan Caesar Salad", {data:[{}],fetch:[],mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Salade met brie en aardbei", {data:[{}],fetch:[],mutations:void 0});

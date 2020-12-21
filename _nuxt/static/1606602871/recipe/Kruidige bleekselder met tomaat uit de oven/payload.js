@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Kruidige bleekselder met tomaat uit de oven", {data:[{}],fetch:[],mutations:void 0});

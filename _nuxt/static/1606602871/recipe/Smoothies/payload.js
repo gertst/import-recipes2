@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Smoothies", {data:[{}],fetch:[],mutations:void 0});

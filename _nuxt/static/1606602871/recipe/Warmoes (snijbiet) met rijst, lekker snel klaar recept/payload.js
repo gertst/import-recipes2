@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Warmoes (snijbiet) met rijst, lekker snel klaar recept", {data:[{}],fetch:[],mutations:void 0});

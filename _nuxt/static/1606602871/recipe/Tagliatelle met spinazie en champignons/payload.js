@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Tagliatelle met spinazie en champignons", {data:[{}],fetch:[],mutations:void 0});

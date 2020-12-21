@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Pasta met savooikool en mozarella", {data:[{}],fetch:[],mutations:void 0});

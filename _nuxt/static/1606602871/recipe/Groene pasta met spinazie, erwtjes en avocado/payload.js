@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Groene pasta met spinazie, erwtjes en avocado", {data:[{}],fetch:[],mutations:void 0});

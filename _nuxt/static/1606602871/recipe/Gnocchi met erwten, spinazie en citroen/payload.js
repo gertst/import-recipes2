@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Gnocchi met erwten, spinazie en citroen", {data:[{}],fetch:[],mutations:void 0});

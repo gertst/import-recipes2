@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Tarweslaatje met geroosterde groenten", {data:[{}],fetch:[],mutations:void 0});

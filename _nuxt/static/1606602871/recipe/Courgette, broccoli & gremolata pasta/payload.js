@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Courgette, broccoli & gremolata pasta", {data:[{}],fetch:[],mutations:void 0});

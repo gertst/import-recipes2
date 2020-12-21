@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Gnocchi met mediterrane paprikatomatenstoof", {data:[{}],fetch:[],mutations:void 0});

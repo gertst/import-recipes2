@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Kokos-currysoep met geroosterde bloemkool en rode linzen", {data:[{}],fetch:[],mutations:void 0});

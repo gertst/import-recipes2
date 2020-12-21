@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Winterse wok", {data:[{}],fetch:[],mutations:void 0});

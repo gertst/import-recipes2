@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Knolselderij op z\'n provençaals", {data:[{}],fetch:[],mutations:void 0});

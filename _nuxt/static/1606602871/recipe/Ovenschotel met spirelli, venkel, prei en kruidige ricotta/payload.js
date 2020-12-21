@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Ovenschotel met spirelli, venkel, prei en kruidige ricotta", {data:[{}],fetch:[],mutations:void 0});

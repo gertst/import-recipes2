@@ -1,1 +1,0 @@
-__NUXT_JSONP__("recipe/Sperzieboontjes met tomaten en Feta", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Cannelloni met spinazie, avocado en verse tomatensaus", {data:[{}],fetch:[],mutations:void 0});

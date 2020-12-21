@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Wok met Paksoi en mango", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Rode kool met appel, kaneel en rozijnen", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Curry met bloemkool en balletjes", {data:[{}],fetch:[],mutations:void 0});

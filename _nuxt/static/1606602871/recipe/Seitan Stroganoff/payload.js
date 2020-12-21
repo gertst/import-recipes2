@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Seitan Stroganoff", {data:[{}],fetch:[],mutations:void 0});

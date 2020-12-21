@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Couscous met venkel, olijven en gekarameliseerde rode ui", {data:[{}],fetch:[],mutations:void 0});

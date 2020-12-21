@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Penne met courgette, peultjes, doperwten, ricotta en pecorino", {data:[{}],fetch:[],mutations:void 0});

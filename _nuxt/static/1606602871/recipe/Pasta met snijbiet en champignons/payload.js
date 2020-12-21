@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Pasta met snijbiet en champignons", {data:[{}],fetch:[],mutations:void 0});

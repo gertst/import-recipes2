@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Pittige noedelwok met tofoe, puntpaprika en paksoi", {data:[{}],fetch:[],mutations:void 0});

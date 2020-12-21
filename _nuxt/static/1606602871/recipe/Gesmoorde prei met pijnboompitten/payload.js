@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Gesmoorde prei met pijnboompitten", {data:[{}],fetch:[],mutations:void 0});

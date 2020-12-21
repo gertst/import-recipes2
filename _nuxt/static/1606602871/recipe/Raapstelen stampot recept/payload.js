@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Raapstelen stampot recept", {data:[{}],fetch:[],mutations:void 0});

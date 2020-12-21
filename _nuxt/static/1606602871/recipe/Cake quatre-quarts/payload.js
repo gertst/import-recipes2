@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Cake quatre-quarts", {data:[{}],fetch:[],mutations:void 0});

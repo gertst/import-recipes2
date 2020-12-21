@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Roerbakschotel met paksoi en mie", {data:[{}],fetch:[],mutations:void 0});

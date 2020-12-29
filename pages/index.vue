@@ -3,7 +3,7 @@
     <div>
       <Logo/>
       <h1 class="title">
-        import-recipes
+        import-recipes v2
       </h1>
 
       <ol class="list-decimal">

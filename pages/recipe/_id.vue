@@ -1,5 +1,5 @@
 <template>
-  <div class="m-4" v-if="recipe && ldJson && openGraph && openGraph.hybridGraph">
+  <div class="m-4" v-if="recipe && ldJson">
     Recept:
     <h2 class="text-xl">{{ recipe.receptnaam }}</h2>
     <p>v3</p>
@@ -18,7 +18,6 @@ export default {
     return {
       ldJson: null,
       recipes: recipesJson.recipes,
-      openGraph: null,
     }
   },
   created() {
@@ -40,22 +39,19 @@ export default {
   },
   methods: {
     getMetaData() {
-      axios.get(`https://opengraph.io/api/1.1/site/${escape(this.recipe['bron URL']).split("/").join("%2F")}?app_id=bb195529-92e9-4b85-a086-cab7f00fbeac`)
-        .then(({data}) => {
-          console.log("openGraph:", data)
-          this.openGraph = data;
-          this.ldJson = `
+
+      this.ldJson = `
               {
               "@context": "http://schema.org/",
               "@type": "Recipe",
               "name": "${this.recipe.receptnaam}",
               "author": "${this.recipe.bron}",
               "url": "${this.recipe['bron URL']}",
-              "image": ${this?.openGraph?.hybridGraph?.image},
+              "image": "${this.recipe['bron URL']}",
               "recipeCategory": "${this.recipe['soort gerecht']}",
               "recipeCuisine": "",
-              "datePublished": "${this.openGraph?.hybridGraph?.articleModifiedTime}",
-              "description": "${this.openGraph?.hybridGraph?.description}",
+              "datePublished": "",
+              "description": "",
               "prepTime": "PT${this.recipe['voorbereidingstijd (minuten)'] || 0}M",
               "cookTime": "PT${this.recipe['bereidingstijd (minuten)'] || 0}M",
               "totalTime": "PT${this.totalTime}M",
@@ -65,7 +61,7 @@ export default {
               "recipeInstructions": [${this.instructionsArray}]
             }
           `;
-        });
+
     },
     async getLdJson() {
       await this.getMetaData();

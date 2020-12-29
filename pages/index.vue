@@ -8,7 +8,7 @@
 
       <ol class="list-decimal">
         <li v-for="(recipe, index) in recipes" :key="index">
-          <a :href="'recipe/' + recipe.receptnaam" class="underline">{{recipe.receptnaam}}</a>
+          <a :href="'recipe/' + recipe.receptnaam" class="underline">{{recipe.receptnaam}}</a> <a target="recept" :href="recipe['bron URL']">Link</a>
         </li>
       </ol>
 

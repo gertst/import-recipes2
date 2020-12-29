@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Quiche met prei, eieren en gruyère", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Nasi met witte kool en een gebakken ei", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Gevulde paprika", {data:[{}],fetch:[],mutations:void 0});

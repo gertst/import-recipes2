@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Penne puttanesca met broccoli en kabeljauw", {data:[{}],fetch:[],mutations:void 0});

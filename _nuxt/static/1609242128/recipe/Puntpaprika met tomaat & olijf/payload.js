@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Puntpaprika met tomaat & olijf", {data:[{}],fetch:[],mutations:void 0});

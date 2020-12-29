@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Teriyaki kip met paksoi en kokosrijst", {data:[{}],fetch:[],mutations:void 0});

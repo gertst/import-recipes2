@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Vegan Thaise curry met koolrabi en tomaat", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Ovenschotel met koolrabi, aubergine en parmezaan", {data:[{}],fetch:[],mutations:void 0});

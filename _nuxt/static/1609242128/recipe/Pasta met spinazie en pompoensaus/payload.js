@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Pasta met spinazie en pompoensaus", {data:[{}],fetch:[],mutations:void 0});

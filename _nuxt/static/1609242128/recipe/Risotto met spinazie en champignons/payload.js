@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Risotto met spinazie en champignons", {data:[{}],fetch:[],mutations:void 0});

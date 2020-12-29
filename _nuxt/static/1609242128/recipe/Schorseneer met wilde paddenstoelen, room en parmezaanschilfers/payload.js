@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Schorseneer met wilde paddenstoelen, room en parmezaanschilfers", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Koolrabi met spinazie, noten en ricotta", {data:[{}],fetch:[],mutations:void 0});

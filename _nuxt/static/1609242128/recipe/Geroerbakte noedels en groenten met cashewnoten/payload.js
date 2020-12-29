@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Geroerbakte noedels en groenten met cashewnoten", {data:[{}],fetch:[],mutations:void 0});

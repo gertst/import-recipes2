@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Knolselderijgratin met appel en walnoten", {data:[{}],fetch:[],mutations:void 0});

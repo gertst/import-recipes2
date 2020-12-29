@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Thaise rijst met groene curry en snijbonen Recept", {data:[{}],fetch:[],mutations:void 0});

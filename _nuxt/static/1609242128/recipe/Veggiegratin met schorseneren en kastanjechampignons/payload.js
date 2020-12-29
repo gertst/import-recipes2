@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Veggiegratin met schorseneren en kastanjechampignons", {data:[{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Gewokte groenten in soja-limoen-sesamzaadjes saus met rijst", {data:[{}],fetch:[],mutations:void 0});

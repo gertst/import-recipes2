@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Vegetarisch quinoa salade met abrikozen, rucola en avocado", {data:[{}],fetch:[],mutations:void 0});

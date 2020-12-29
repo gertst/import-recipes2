@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Pompoen ovenschotel - al dan niet veggie of vegan", {data:[{}],fetch:[],mutations:void 0});

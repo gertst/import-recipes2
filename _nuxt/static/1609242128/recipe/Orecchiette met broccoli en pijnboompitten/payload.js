@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Orecchiette met broccoli en pijnboompitten", {data:[{}],fetch:[],mutations:void 0});

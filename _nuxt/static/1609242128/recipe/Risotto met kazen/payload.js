@@ -1,0 +1,1 @@
+__NUXT_JSONP__("recipe/Risotto met kazen", {data:[{}],fetch:[],mutations:void 0});
